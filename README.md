@@ -17,7 +17,7 @@ El codigo: Análisis y entrenamiento, es el código principal donde se encuentra
 
 ---
 
-### 📁 `modelo_exportado/`
+### 📁 `modelo/`
 Contiene el **modelo final entrenado** (en formato `.joblib`).  
 Este modelo puede cargarse directamente para realizar predicciones sin necesidad de reentrenar.
 
