@@ -10,14 +10,10 @@ El objetivo principal es **predecir el índice de vegetación de diferencia norm
 
 El repositorio está organizado en carpetas principales, cada una con un propósito específico:
 
-### 📁 `images/`
-Contiene las **imágenes multiespectrales** utilizadas en el estudio, capturadas mediante dron.  
-Estas imágenes fueron la base para calcular índices de vegetación como el NDVI.
-
----
 
 ### 📁 `code/`
 Incluye los **scripts en Python**
+El codigo: Análisis y entrenamiento, es el código principal donde se encuentra **Análisis previo, preparación de datos** y **Entrenamiento**.
 
 ---
 
@@ -38,5 +34,4 @@ Incluye los **datos recopilados** durante el proyecto:
 
 
 
-Para ejecutar los scripts se recomienda tener instalado **Python 3.10+** junto con las siguientes librerías:
 
